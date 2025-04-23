@@ -13,7 +13,10 @@
 #-----------------------------------------
 #### STEP 1: Load and explore Dataset ####
 #-----------------------------------------
-# already normalized microarray expression data
+# Import dataset 
+# already normalized microarray expression data 
+# Here's the link to access the dataset: https://github.com/AI-Biotechnology-Bioinformatics/Microarray_Series_R
+
 # check data structure and dimensions
 
 # load Required Packages
